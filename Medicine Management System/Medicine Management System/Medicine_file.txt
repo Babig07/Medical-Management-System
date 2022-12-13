@@ -1,0 +1,4 @@
+1|parashetamol|aryadrj|india|20$
+2|Covidshield|Pharma|India|5000$
+3|covaxin|pharma|india|900$
+4|abcd|hty|hty|987$
